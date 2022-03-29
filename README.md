@@ -2,7 +2,7 @@
 
 A complete log of my web development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organise, and share my learning.
 
-[Portfolio](https://www.sykhoudeib.com/ "sykhoudeib.com") || [Blog](https://www.blog.sykhoudeib.com/ "My web dev articles")
+[Portfolio](#) || [Blog](#)
 
 ----
 
