@@ -11,9 +11,24 @@
 ----------------------------------------------------------
 
 ----------------------------------------------------------
+
+## 30 Mar '22
+
++ Added 3 Anki cards on methods fundamentals.
+
++ [JavaScript Design Patterns](https://www.patterns.dev/posts/classic-design-patterns/):[Introduction](https://www.patterns.dev/posts/classic-design-patterns/#introduction)[What is a Pattern?](https://www.patterns.dev/posts/classic-design-patterns/#whatisapattern)["Pattern"-ity Testing, Proto-Patterns & The Rule Of Three](https://www.patterns.dev/posts/classic-design-patterns/#patternity)[The Structure Of A Design Pattern](https://www.patterns.dev/posts/classic-design-patterns/#designpatternstructure)[Writing Design Patterns](https://www.patterns.dev/posts/classic-design-patterns/#writingdesignpatterns)
+    - Though I'm not sure I understand the scope of what a pattern really is. I thought I was going to find something like, when we want to reverse a string we split the string into an array, use the reverse method to reverse the array, then join the reversed array into a reversed version of the string. This seems to be a deeper scope of how to implement different pieces of code in the design of a code base. I will have to keep reading to find out for sure. I do like how this author writes, it reminds me of how Leon explains things.
+
+----------------------------------------------------------
 ## 29 Mar '22
 
 + Finished the Microsoft github intro class. I had previously found this repository, and wanted to fork this for my own use.
+
++ First day of the best week ever with #100Devs
+
++ Reviewed Arrays, Objects, Methods, and touched on APIs
+
+----------------------------------------------------------
 
 ## 2022 Objectives
 
