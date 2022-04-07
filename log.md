@@ -11,6 +11,32 @@
 ----------------------------------------------------------
 
 ----------------------------------------------------------
+## 7 Apr '22
+
++ 
+
+----------------------------------------------------------
+## 5 Apr '22
+
++ In Class: Resume review
+
++ Create update template for resume
+
+----------------------------------------------------------
+## 2 Apr '22
+
++ Anki: JavaScript Array Methods & String Methods decks
+
+----------------------------------------------------------
+## 31 Mar '22
+
++ In Class: Reviewed effective learning strategies:
+    - Active Recall
+    - Spaced Repetition
+        - Anki
++ In Class: Unix bash, Git, & Github
+
+----------------------------------------------------------
 
 ## 30 Mar '22
 
@@ -35,9 +61,9 @@
 
 + Finished the Microsoft github intro class. I had previously found this repository, and wanted to fork this for my own use.
 
-+ First day of the best week ever with #100Devs
++ In Class: First day of the best week ever with #100Devs
 
-+ Reviewed Arrays, Objects, Methods, and touched on APIs
++ In Class: Reviewed Arrays, Objects, Methods, and touched on APIs
 
 ----------------------------------------------------------
 
