@@ -11,6 +11,12 @@
 ----------------------------------------------------------
 
 ----------------------------------------------------------
+## 8 Apr '22
+
++ Code Wars: [Filter Out the Geese](https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7)
+    - [GitHub Solution](https://github.com/VladmirPutgang/CodewarsSolutions/blob/main/filter-the-geese.js)
+
+----------------------------------------------------------
 ## 7 Apr '22
 
 + In Class: APIs
