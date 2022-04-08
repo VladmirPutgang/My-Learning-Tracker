@@ -1,4 +1,4 @@
-# My Learning Tracker [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)]()
+# My Learning Tracker
 
 A complete log of my web development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organise, and share my learning.
 
@@ -184,27 +184,27 @@ I'm currently interested in/excited about:
 
 This is a list of basic objectives to meet on the road to mastering web development.
 
-* [ ] Open the computer’s terminal
-* [ ] Use a text editor (bonus points if you have a specific reason for choosing it)
-* [ ] Use some keyboard shortcuts
+* [x] Open the computer’s terminal
+* [x] Use a text editor (bonus points if you have a specific reason for choosing it)
+* [x] Use some keyboard shortcuts
 * [ ] Write tests for your code
-* [ ] Help another web developer with something they’re having trouble with
-* [ ] Attend an event about web development
+* [x] Help another web developer with something they’re having trouble with
+* [x] Attend an event about web development
 * [ ] Follow developers you admire on social media
 * [ ] Read a book about coding
-* [ ] Open your browser console
-* [ ] Get data from an API
+* [x] Open your browser console
+* [x] Get data from an API
 * [ ] Hide API keys from the public
 * [ ] Post a question on Stack Overflow
-* [ ] Push code to GitHub or GitLab or BitBucket
+* [x] Push code to GitHub or GitLab or BitBucket
 * [ ] Speak about something web development-related at an event
 * [ ] Complete a technical interview
 * [ ] Participate in a hackathon
-* [ ] Deploy a project
+* [x] Deploy a project
 * [ ] Ship your project to a store
 * [ ] Contribute to open source
 * [ ] Get paid to code
-* [ ] When people ask what you do, respond saying you’re a developer :)
+* [ ] When people ask what you do, respond saying you’re a software engineer
 
 ----
 
@@ -215,4 +215,4 @@ This has been derived from Skynapse's Learning tracker.
 
 ### License
 
-[MIT License](https://github.com/Syknapse/My-Learning-Tracker/blob/master/LICENSE)
+[MIT License](https://github.com/VladmirPutgang/My-Learning-Tracker/blob/master/LICENSE)
